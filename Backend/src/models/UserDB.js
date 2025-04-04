@@ -5,7 +5,7 @@ const pool = mysql.createPool({
   port: 3306,
   host: 'localhost',
   user: 'root',
-  password: '#M2005k#',
+  password: '#',
   database: 'rent_an_event',
 });
 
